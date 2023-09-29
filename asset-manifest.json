@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/contador-de-clicks-react/static/css/main.f728c8b7.css",
+    "main.js": "/contador-de-clicks-react/static/js/main.e7c019ef.js",
+    "static/media/png programacion web.png": "/contador-de-clicks-react/static/media/png programacion web.83b736c551efc828bfea.png",
+    "index.html": "/contador-de-clicks-react/index.html",
+    "main.f728c8b7.css.map": "/contador-de-clicks-react/static/css/main.f728c8b7.css.map",
+    "main.e7c019ef.js.map": "/contador-de-clicks-react/static/js/main.e7c019ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f728c8b7.css",
+    "static/js/main.e7c019ef.js"
+  ]
+}
