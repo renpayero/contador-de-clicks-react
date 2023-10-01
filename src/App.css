@@ -19,7 +19,7 @@ html,body{
 
 .contenedorPrincipal{
   height: 34.375rem;
-  min-width: 37.5rem;
+  width: 100%;
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
@@ -36,5 +36,5 @@ html,body{
 }
 
 .logoImg{
-  height: 17rem;
+  height: 10rem;
 }
